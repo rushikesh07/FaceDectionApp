@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63920844452",
+    "firebase_url": "https://case-19905.firebaseio.com",
+    "project_id": "case-19905",
+    "storage_bucket": "case-19905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63920844452:android:ac628433ef58172e70c031",
+        "android_client_info": {
+          "package_name": "com.example.facedectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63920844452-6n25o21em06lv24buf6ebjpgn8t9g56u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ_JHppFJy5AJjVFvJYhBPbKKKCHBzSIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63920844452-6n25o21em06lv24buf6ebjpgn8t9g56u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
